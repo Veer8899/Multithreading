@@ -1,0 +1,28 @@
+2023-06-15 16:47:27,201 Thread-7 (increment_counter) Counter incremented
+2023-06-15 16:47:27,221 Thread-8 (decrement_counter) Counter decremented
+2023-06-15 16:47:27,221 MainThread Final counter value: 0
+2023-06-15 16:47:47,786 Thread-9 (increment_counter) Counter incremented
+2023-06-15 16:47:47,806 Thread-10 (decrement_counter) Counter decremented
+2023-06-15 16:47:47,807 MainThread Final counter value: 0
+2023-06-15 16:48:10,494 Thread-11 (increment_counter) Counter incremented
+2023-06-15 16:48:10,507 Thread-12 (decrement_counter) Counter decremented
+2023-06-15 16:48:10,507 MainThread Final counter value: 0
+2023-06-15 16:49:33,527 Thread-16 (decrement_counter) Counter decremented
+2023-06-15 16:49:33,534 Thread-15 (increment_counter) Counter incremented
+2023-06-15 16:49:44,401 Thread-17 (increment_counter) Counter incremented
+2023-06-15 16:49:44,408 Thread-18 (decrement_counter) Counter decremented
+2023-06-15 16:49:45,410 MainThread Final counter value: 0
+2023-06-15 16:49:51,601 Thread-19 (increment_counter) Counter incremented
+2023-06-15 16:49:51,614 Thread-20 (decrement_counter) Counter decremented
+2023-06-15 16:49:52,616 MainThread Final counter value: 0
+2023-06-15 17:00:22,961 Thread-5 (increment_counter) Counter incremented
+2023-06-15 17:00:22,967 Thread-6 (decrement_counter) Counter decremented
+2023-06-15 17:00:23,968 MainThread Final counter value: 0
+2023-06-15 17:00:23,976 MainThread No such comm target registered: jupyter.widget.control
+2023-06-15 17:00:23,978 MainThread No such comm: 73a6a606-3b17-4742-a4cc-b8771a5b402e
+2023-06-15 17:00:24,167 Thread-7 (increment_counter) Counter incremented
+2023-06-15 17:00:24,189 Thread-8 (decrement_counter) Counter decremented
+2023-06-15 17:00:24,189 MainThread Final counter value: 0
+2023-06-15 17:00:32,735 Thread-10 (decrement_counter) Counter decremented
+2023-06-15 17:00:32,752 Thread-9 (increment_counter) Counter incremented
+2023-06-15 17:00:32,752 MainThread Final counter value: 0
