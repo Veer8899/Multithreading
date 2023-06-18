@@ -1,2 +1,0 @@
-2023-06-15 16:20:06,415 Thread-5 (test5) Thread 1 acquired var a
-2023-06-15 16:20:06,415 Thread-6 (test6) Thread 2 acquired var b
